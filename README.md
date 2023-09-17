@@ -31,4 +31,8 @@ Here's a basic HTML structure template within this MD:
 </html>
 ```
 
-An image would be nice.. ![Find an image then](need.a.url)
+## An image would be nice..
+
+![Image of me](thumbnail.jpeg)
+
+No way of centring it though.
