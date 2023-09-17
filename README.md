@@ -35,4 +35,4 @@ Here's a basic HTML structure template within this MD:
 
 ![Image of me](thumbnail.jpeg)
 
-No way of centring it though.
+No way of centring it though :neutral_face:.
