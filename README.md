@@ -36,3 +36,15 @@ Here's a basic HTML structure template within this MD:
 ![Image of me](thumbnail.jpeg)
 
 No way of centring it though :neutral_face:.
+
+Here's a thought... or rather, here's a regurgitation of a thought by Stable Diffusion:
+
+![Pi5 and Scarlett](Pi-and-Scarlett-USB-Audio-3.jpg)
+
+It's supposed to be a bit different. Well... this is the prompt I gave it:
+
+A Raspberry Pi 5 in its official red and white case is sitting on top of a Focusrite Scarlett 2i2 v4 USB Audio interface, on a white background. There are only these 2 things in the image other than banner titles at the top and bottom.
+
+A banner title above says 'Is This a Recording Studio?', and a banner title at the bottom says 'Do they go together?'.
+
+Negative: Messiness, untidiness, additional items, technical inaccuracy, bare PCB
